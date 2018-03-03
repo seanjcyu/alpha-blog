@@ -4,7 +4,7 @@ class PagesController < ApplicationController
     
   end
   
-  def abou
+  def about
   
   end
   
